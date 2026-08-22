@@ -12,62 +12,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 👋 Hi, I'm Aarti
 
-### 🎓 Researcher | 📊 Data Analytics | 🤖 AI & Big Data | 💻 Computer Science
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Researcher+in+Big+Data+Analytics;Anytime+Algorithms+%7C+Stream+Mining;Data+Mining+%7C+Machine+Learning;Scalable+%26+Adaptive+Data+Analytics" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/aartiv25">
-    <img src="https://komarev.com/ghpvc/?username=aartiv25&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/aartiv25?tab=followers">
-    <img src="https://img.shields.io/github/followers/aartiv25?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I am a researcher and academic professional working at the intersection of:
-
-- 📊 **Big Data Analytics**
-- 🌊 **Data Stream Mining**
-- ⚡ **Anytime & Interruptible Algorithms**
-- 🔍 **Data Mining**
-- 🤖 **Machine Learning**
-- 📈 **Clustering & Classification**
-- ⚙️ **Parallel & Distributed Computing**
-- ☁️ **Cloud Computing**
-- 🌱 **Sustainable AI**
-
-My research interests focus on developing **scalable, adaptive and efficient algorithms for large-scale and streaming data**.
-
----
-
-# 🔬 Research Interests
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Anytime%20Algorithms-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stream%20Mining-00A98F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Mining-8E44AD?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-F39C12?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Parallel%20Computing-2C3E50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Distributed%20Systems-16A085?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sustainable%20AI-27AE60?style=for-the-badge" />
-
-</p>
-
----
 
 # 🛠️ Tech Stack
 
