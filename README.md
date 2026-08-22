@@ -14,7 +14,7 @@
 
 # Hi, I'm [Your Name] 👋 
 
-Senior AI Researcher at [Institution/Company]
+Researcher at [Institution/Company]
 
 [![ORCID](https://shields.io)](https://orcid.org)
 [![Scholar](https://shields.io)](https://google.com)
