@@ -10,3 +10,36 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aartiv25&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
+
+
+# Hi, I'm [Your Name] 👋 
+
+Senior AI Researcher at [Institution/Company]
+
+[![ORCID](https://shields.io)](https://orcid.org)
+[![Scholar](https://shields.io)](https://google.com)
+[![Website](https://shields.io)](https://yourwebsite.com)
+
+---
+
+### 🔬 Research Interests
+* **Primary Focus:** Generative AI alignment, Reinforcement Learning from Human Feedback (RLHF), and Large Language Model safety.
+* **Secondary Focus:** Distributed training optimizations for sparse model architectures.
+
+### 🛠️ Scientific Stack
+* **Core Languages:** Python, Julia, C++
+* **Frameworks:** PyTorch, DeepSpeed, HuggingFace Transformers, JAX
+* **Data & Analytics:** Pandas, NumPy, Scikit-learn, Weights & Biases
+
+### 📄 Featured Publications & Codebases
+* **[Paper Title 1]** (NeurIPS 2026) — [📄 PDF Link] | [💻 Code Repository Link]
+  > *Brief one-sentence takeaway of what this model/architecture achieved.*
+* **[Paper Title 2]** (ICML 2025) — [📄 PDF Link] | [💻 Code Repository Link]
+
+### 📈 GitHub Metrics
+![Your GitHub Stats](https://vercel.app)
+
+### 📫 Let's Collaborate
+* **Email:** researcher@institution.edu
+* **LinkedIn:** [Your Profile]
+* **Twitter/X:** [@YourHandle]
