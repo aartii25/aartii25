@@ -153,7 +153,7 @@ My research interests focus on developing **scalable, adaptive and efficient alg
 <p align="center">
 
 <a href="https://github.com/aartiv25">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aartiv25&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aartiv25&repo=aartii25/AnyCan&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/aartiv25">
